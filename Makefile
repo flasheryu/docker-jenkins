@@ -1,4 +1,4 @@
 build:
-	docker build -t="flasheryu/jenkins" .
+	docker build -t flasheryu/jenkins .
 
 .PHONY: build
